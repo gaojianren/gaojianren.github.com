@@ -12,7 +12,7 @@ pygments: true
 title : my bolg
 tagline: Site Tagline
 author :
-  name : 你的姓名
+  name : 姓名
   email : 你的邮箱
   github : https://github.com/gaojianren/
   twitter : 

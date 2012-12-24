@@ -1,1 +1,7 @@
-the github is funny 第一次使用github,感觉。。。。。。。。。。
+---
+layout : post
+category : lessons
+tags : [开始]
+---
+
+##the github is funny 有趣的版本控制器，博客添加

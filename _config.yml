@@ -81,7 +81,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : 你在disqus上注册用户的短名
+      short_name : gaojianrenblogbygithub
     livefyre :
       site_id : 123
     intensedebate :
